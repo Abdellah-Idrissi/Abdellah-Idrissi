@@ -18,7 +18,6 @@
 
 
 
-<img align="left" alt="webpack" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/187955008-981340e6-b4cc-441b-80cf-7a5e94d29e7e.png" />
 
 
 <img align="left" alt="gulp" width="32px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" />
